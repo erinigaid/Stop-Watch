@@ -4,7 +4,7 @@
 
 ### Drivers: GPIO, Timer (CTC), External Interrupts, 7-segment, MC: ATmega32
 
-The time is stored as array members (seconds, minutes, hours).
+The time is stored as an array members (seconds, minutes, hours).
 
 Macros was used to avoid using magic numbers as much as possible.
 
